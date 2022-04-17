@@ -35,11 +35,11 @@
   </a>
   &emsp;
      <a href="https://getbootstrap.com/" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+     <img alt="BOOTSTRAP" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
   &emsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="TAILWIND" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <a href="https://styled-components.com/" target="_blank">
+    <img alt="STYLED-COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   </a> 
    
 </p>
