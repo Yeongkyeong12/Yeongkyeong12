@@ -38,8 +38,8 @@
      <img alt="TAILWINDCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
   &emsp; 
-  <a href="https://styled-components.com/" target="_blank">
-    <img alt="STYLED-COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <a href="https://getbootstrap.com" target="_blank">
+    <img alt="BOOTSTRAP" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a> 
    
 </p>
