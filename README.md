@@ -2,7 +2,7 @@
 
 <hr/>
 <h4 align="left">
-  🌱 I am a Junior Frontend Developer looking for new job opportunities and challenges.
+  🌱 I am always trying to do my best and challenge new things.
   <br>
   🍀 I like to Code, spread knowledge and positivity.
   <br>
